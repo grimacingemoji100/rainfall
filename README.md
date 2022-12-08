@@ -1,7 +1,8 @@
 # rainfall
 Question 3 of '27319: Version control with a focus on GitHub and R'
 
-This repository contains R scripts which create a plot of average rainfall in Oxford and Melbourne
+This repository contains R scripts which create a plot of average rainfall in Oxford and Melbourne.
+
 To create this plot run these commands in order:
 ```
 Rscript src/combine-data.R 
