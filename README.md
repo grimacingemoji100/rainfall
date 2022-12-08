@@ -9,4 +9,4 @@ Rscript src/combine-data.R
 Rscript src/make-plot.R 
 ```
 
-The input data is in `data` and the results are in `out`. The R scripts are in `scr`.
+The raw datasets are in `data`, the R scripts are in `scr`, and the R script outputs are in `out`. 
